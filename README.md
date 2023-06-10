@@ -10,7 +10,7 @@ ML developer | Product analyst | TG bot's
   </p>
 
 <table>
-  <tr><th>ML projects </th><th> Developing </th></tr>
+  <tr><th>ML projects </th><th> Telegram </th></tr>
   <tr><td>
 
 |Title | Technologies|
@@ -18,7 +18,7 @@ ML developer | Product analyst | TG bot's
 |[CV detection](https://github.com/hardworkerM/Computer-Vision) | ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat-square&logo=opencv)|
 |[Binary Classification](https://github.com/hardworkerM/Binary-classification) | ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square&logo=pandas) ![Scikit-learn](https://img.shields.io/badge/scikit-learn-blue?style=flat-square&logo=scikit-learn)|
 | [Churn prediction](https://github.com/hardworkerM/Churn-100) | ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square&logo=pandas) ![Scikit-learn](https://img.shields.io/badge/scikit-learn-blue?style=flat-square&logo=scikit-learn) |
- 
+| [Bag of words](https://github.com/hardworkerM/Bag_of_words) | [![Nltk](https://img.shields.io/badge/PyPi-blue?style=flat-square&logo=pypi)](https://pypi.org/project/nltk/)  ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat-square&logo=pandas) <br> ![Scikit-learn](https://img.shields.io/badge/scikit-learn-blue?style=flat-square&logo=scikit-learn)|
  </td><td>
     
 |Title | Technologies |
