@@ -1,4 +1,4 @@
-# Grigoriy Trukhin <a href="https://t.me/mrgherr" target="_blank" ><img align="center" src="https://www.oblgazeta.ru/media/filer_public/2022/03/24/bf340d0a-384c-4d90-a070-9266ef7cf17b-телега.jpg.1024x0_q85.jpg" alt="telegram" width="49.5" height="36"/>
+# Grigoriy Trukhin <a href="https://t.me/mrgherr" target="_blank" ><img align="center" src="https://avatars.mds.yandex.net/get-entity_search/5488405/551762834/S122x122Fit_2x" alt="telegram" width="36" height="36"/>
 
 ML developer | Product analyst | TG bot's
 
